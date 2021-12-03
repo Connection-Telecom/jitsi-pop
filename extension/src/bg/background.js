@@ -1,4 +1,6 @@
 window.servers = [
+  "conf.telviva.com",
+  "one.telviva.com",
   // "beta.meet.jit.si",
   "meet.jit.si",
   "8x8.vc",
